@@ -1,2 +1,2 @@
 # minesweeper
-Fun to do Game developent
+Fun to do Game development
